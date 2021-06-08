@@ -12,12 +12,12 @@ Still I need to fix and improve a lot in this app in future .
 **ReactNative** : Used this framework to build the application<br />
 **Hook** : To manage the state <br />
 **AsyncStorage** : To save the data in local <br />
-**ExpoCli** <br />
+**ExpoCli** Developer tool <br />
 **Styled Component** : To create and customize the components <br />
 **Animated** : From react native <br />
-**AsyncStorage** : To save the data in local <br />
 
-# How You Could Take Benefit 🥳 ?
+# Your Benefit 🥳 ?
 
-If you are also a beginner at react native a want to learn or want to have project example , you can definatly learn from this project as an example .
+If you want to have an example of a project using react with hook and storage in local , then this source code could help you alot !
+You can contribute to this project to .
 
